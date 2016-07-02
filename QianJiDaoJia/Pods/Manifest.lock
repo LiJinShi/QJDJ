@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (3.3.1)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - Kingfisher (2.3.1)
+  - MJExtension (3.0.10)
+  - MJRefresh (3.1.7)
+  - SDAutoLayout (1.52)
+  - SDCycleScrollView (1.64):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SVProgressHUD (2.0.3)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3.1)
+  - FMDB (~> 2.6.2)
+  - Kingfisher (~> 2.3.1)
+  - MJExtension (~> 3.0.10)
+  - MJRefresh (~> 3.1.7)
+  - SDAutoLayout (~> 1.52)
+  - SDCycleScrollView (~> 1.64)
+  - SVProgressHUD (~> 2.0.3)
+  - SwiftyJSON (~> 2.3.2)
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  Kingfisher: 6d3fbada4829cbc7b89e883e8218c28afeb64e42
+  MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
+  MJRefresh: f67f0750d57a4e4ae433da549359ca53b52cdc7d
+  SDAutoLayout: 7c92e8f149059e80010507e471e1b4b6c85a62bb
+  SDCycleScrollView: 806fedb9342ab03b58b84442f985517b42c7cbb7
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
